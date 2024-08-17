@@ -40,5 +40,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask" /><br>
 </div>
-
+<div>
 ![snake gif](https://github.com/saloni222444/saloni222444/blob/output/github-contribution-grid-snake.gif)
+</div>
