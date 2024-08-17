@@ -8,7 +8,6 @@
 
 <div align="center">
 
-Here’s a profile summary based on what you shared:
 
 👀 Interests: I’m passionate about web development, diving into new technologies, and tackling challenging problems.
 
