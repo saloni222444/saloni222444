@@ -17,7 +17,7 @@
 
 📫 Contact: Feel free to reach out to me via email at salonimoga@gmail.com or connect with me on LinkedIn www.linkedin.com/in/saloni-45b517281
 
-😄 Pronouns: He/Him
+<br>😄 Pronouns: He/Him
 
 ⚡ Fun Fact: I love tackling coding challenges and delving into how AI intersects with web development!
 
